@@ -3,6 +3,6 @@
 This is `Shahla Bahmanyar`
 
 
-[Linkedin Profile Page](https://www.linkedin.com/in/shahla-bahmanyar)
+[LinkedIn Profile Page](https://www.linkedin.com/in/shahla-bahmanyar)
 
 
