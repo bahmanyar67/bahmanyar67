@@ -1,23 +1,38 @@
 # 👋 Hi, I'm Shahla Bahmanyar!
 
-🎓 **Second-Year Computer Science Student** specializing in Cybersecurity.  
-🌍 Based in London, UK.  
-🌱 Currently enhancing my skills in database management, mobile app development, and peer-to-peer platforms.  
-🚀 Passionate about learning, problem-solving, and building impactful projects.
+🎓 **Second-Year Computer Science Student** | Cybersecurity Enthusiast  
+🌍 Based in Plymouth, UK  
+🌱 Continuously developing my skills in database management, software development, and mobile app creation.  
+🚀 Passionate about building impactful solutions, solving problems, and collaborating on innovative projects.  
 
-## 🔧 Skills
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
+---
+
+## 🔧 Technical Skills
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C, C++  
 - **Tools & Frameworks:** MS SQL Server, Git, React (beginner)  
-- **Interests:** Cybersecurity, Mobile Development, Data Analysis  
+- **Interests:** Cybersecurity, Mobile Development, Data Analysis, Software Development  
+
+---
 
 ## 🌟 Featured Projects
-- 📱 **[Employee Management App](#)**: A mobile app for managing employee data and leave requests.  
-- 🧑‍🤝‍🧑 **P2P Learning Platform**: A collaborative platform for university students.  
+### 🔒 **Password Management Web Application**  
+A secure, web-based password manager featuring:  
+- AES encryption for password storage.  
+- Random, secure password generation with strength indicators.  
+- Duplicate password warnings and recommendations for better security.  
+
+### 📱 **Employee Management App**  
+A mobile application for managing employee data and leave requests, providing streamlined functionality for admins and employees alike.  
+
+### 🧑‍🤝‍🧑 **Peer-to-Peer Learning Platform**  
+A collaborative project designed to foster student connections and learning through a P2P platform.  
+
+---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shahla-bahmanyar)  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/shahla-bahmanyar)  
 - ✉️ Email: bahmanyar67@example.com  
 
 ---
 
-✨ Open to collaboration and learning opportunities!  
+✨ *Always open to collaboration, learning, and new challenges. Let’s connect and build something amazing together!* 
