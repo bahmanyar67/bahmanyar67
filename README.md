@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shahla Bahmanyar!
 
-🎓 **Second-Year Computer Science Student** | Cybersecurity Enthusiast  
+🎓 **Second-Year Computer Science Student**  
 🌍 Based in Plymouth, UK  
 🌱 Continuously developing my skills in database management, software development, and mobile app creation.  
 🚀 Passionate about building impactful solutions, solving problems, and collaborating on innovative projects.  
@@ -9,8 +9,8 @@
 
 ## 🔧 Technical Skills
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C, C++  
-- **Tools & Frameworks:** MS SQL Server, Git, React (beginner)  
-- **Interests:** Cybersecurity, Mobile Development, Data Analysis, Software Development  
+- **Tools & Frameworks:** MS SQL Server, Git
+- **Interests:** Software Development, Mobile Development, Data Analysis
 
 ---
 
