@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C, C++  
+- **Languages:** Python, SQL, HTML, CSS, JavaScript 
 - **Tools & Frameworks:** MS SQL Server, Git
 - **Interests:** Software Development, Mobile Development, Data Analysis
 
