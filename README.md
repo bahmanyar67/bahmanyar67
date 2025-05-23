@@ -30,8 +30,8 @@ A collaborative project designed to foster student connections and learning thro
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/shahla-bahmanyar)  
-- ✉️ Email: bahmanyar67@gmail.com  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/shahla-bahmanyar)
+- ✉️ Email: shahla.bahmanyar@gmail.com
 
 ---
 
