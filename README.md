@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shahla Bahmanyar!
 
-🎓 **Second-Year Computer Science Student**  
+🎓 **Third-Year Computer Science Student**  
 🌍 Based in Plymouth, UK  
 🌱 Continuously developing my skills in database management, software development, and mobile app creation.  
 🚀 Passionate about building impactful solutions, solving problems, and collaborating on innovative projects.  
