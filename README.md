@@ -1,15 +1,16 @@
 ## 👋 Hi, I'm Shahla Bahmanyar!
 
-🎓 **Third-Year Computer Science Student**  
+🎓 **Final-Year Computer Science Student**  
 🌍 Based in Plymouth, UK  
-🌱 Continuously developing my skills in database management, software development, and mobile app creation.  
+🌱 Continuously developing my skills in AI, database management, software development, and mobile app creation.  
 🚀 Passionate about building impactful solutions, solving problems, and collaborating on innovative projects.  
 
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** Python, SQL, HTML, CSS, JavaScript 
-- **Tools & Frameworks:** MS SQL Server, Git
+- **Languages:** Python, SQL, HTML, CSS, JavaScript
+- **Databases:** MS SQL Server, MongoDB, PostgreSQL
+- **Tools & Frameworks:** Git, n8n, Node.js, Vue.js
 - **Interests:** Software Development, Mobile Development, Data Analysis
 
 ---
@@ -27,7 +28,11 @@ A mobile application for managing employee data and leave requests, providing st
 ### 🧑‍🤝‍🧑 **Peer-to-Peer Learning Platform**  
 A collaborative project designed to foster student connections and learning through a P2P platform.  
 
----
+### 📚 **Library Management System**  
+Easy-to-use online system for public libraries. It will handle everything a library needs
+
+### 📚 **Memory Extender** 
+A web-based Personal Knowledge Management platform designed to change how students, teachers, and researchers interact with their materials.---
 
 ## 📫 Connect with Me
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/shahla-bahmanyar)
